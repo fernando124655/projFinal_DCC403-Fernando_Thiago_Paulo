@@ -21,12 +21,13 @@ A organização dos diretórios é a seguinte e cada um possui as seguintes info
 
 ---
 ## Ferramentas Utilizadas 🛠
-### Intel Quartus
+
+### Virtual Box
 <p align='center'>
-<img src="https://github.com/juniorrkcm/AOC_PAULO-FERNANDO_UFRR_LabCircuitos_2022/blob/main/IMAGENS/Quartus_prime_icon.png">
+<img src= "https://github.com/fernando124655/projFinal_DCC403-Fernando_Thiago_Paulo/blob/main/ICONS/Virtualbox_logo.png">
 </p>
 
-> **Intel Quartus Prime** é um software de design de dispositivo lógico programável produzido pela Intel; antes da aquisição da Altera pela Intel, a ferramenta era chamada Altera Quartus Prime, anteriormente Altera Quartus II. (fonte: [Wikipedia](https://en.wikipedia.org/wiki/Intel_Quartus_Prime))
+> **Virtual Box** A VirtualBox é um software de virtualização que permite criar e executar máquinas virtuais em um único computador. Com ele, é possível executar vários sistemas operacionais simultaneamente, oferecendo flexibilidade e facilidade para testes e desenvolvimento de aplicativos.
 
 ### Visual Studio Code
 
@@ -34,12 +35,20 @@ A organização dos diretórios é a seguinte e cada um possui as seguintes info
 <img src="https://github.com/juniorrkcm/AOC_PAULO-FERNANDO_UFRR_LabCircuitos_2022/blob/main/IMAGENS/file_type_vscode_icon_130084.png">
 </p>
 
-> O **Visual Studio Code** é um editor de código-fonte desenvolvido pela Microsoft para Windows, Linux e macOS. Ele inclui suporte para depuração, controle Git incorporado, realce de sintaxe, complementação inteligente de código, *snippets* e refatoração de código.(fonte:[Wikipedia](https://pt.wikipedia.org/wiki/Visual_Studio_Code))
+> **Visual Studio Code** é um editor de código-fonte desenvolvido pela Microsoft para Windows, Linux e macOS. Ele inclui suporte para depuração, controle Git incorporado, realce de sintaxe, complementação inteligente de código, *snippets* e refatoração de código.
 
-### Draw.io
+### Docker
 
 <p align='center'>
-<img src="https://github.com/juniorrkcm/AOC_PAULO-FERNANDO_UFRR_LabCircuitos_2022/blob/main/IMAGENS/drawio_logo_RGB_symbol_large.png">
+<img src="https://github.com/fernando124655/projFinal_DCC403-Fernando_Thiago_Paulo/blob/main/ICONS/homepage-docker-logo.png"> 
 </p>
 
->O **Draw.io** é um editor gráfico online no qual é possível desenvolver desenhos, gráficos e outros sem a necessidade de usar um software caro e pesado. Ele disponibiliza recursos para criação de qualquer tipo de desenho porém, possui uma parte dedicada à arquitetura da informação.(fonte:[TechTudo](https://www.techtudo.com.br/tudo-sobre/drawio.html))
+> **Docker** O Docker é uma plataforma de virtualização por contêiner que simplifica o desenvolvimento e a implantação de aplicativos. Ele permite empacotar aplicativos e suas dependências em contêineres, tornando-os portáteis e consistentes em diferentes ambientes. Com o Docker, é possível criar, compartilhar e executar aplicativos de forma rápida e eficiente.
+
+### Ubuntu
+
+<p align='center'>
+<img src=https://github.com/fernando124655/projFinal_DCC403-Fernando_Thiago_Paulo/blob/main/ICONS/5969282.png> 
+</p>
+
+> **Ubuntu** O Ubuntu é um sistema operacional de código aberto baseado em Linux, conhecido por sua facilidade de uso e experiência amigável. Ele é utilizado em desktops, servidores e dispositivos IoT, oferecendo uma ampla seleção de aplicativos e suporte ativo da comunidade.
