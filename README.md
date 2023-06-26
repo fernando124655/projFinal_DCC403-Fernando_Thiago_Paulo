@@ -13,9 +13,11 @@ Projeto de conclusão de semestre referente a matéria de **Sistemas Operacionai
 O objetivo é desenvolver um sistema web escalável usando virtualização e containers.
 
 A organização dos diretórios é a seguinte e cada um possui as seguintes informações:
-* **COMPONENTES** : diretórios contendo os arquivos de extensão `.vhd` utilizados para desenvolvimento do processador;
-* **DATAPATH** : diretório contendo arquivo visual da organização dos componentes;
-* **RELATÓRIO**: contém arquivo explicando o funcionamento e resultado de testes do projeto.
+* **ARQUIVOS**: diretório contendo os arquivos de apresentação do projeto;
+* **CODIGOS** : diretório os códigos usados para desenvolver o sistema web;
+* **ICONS** : diretório contendo os icones dos softwares utilizados no projeto;
+* **IMAGENS**: diretório contendo as imagens capturadas de todas as fases dos projeto;
+* **VIDEOS**: diretório contendo vídeos capturados de todas as fases dos projeto.
 
 ---
 ## Ferramentas Utilizadas 🛠
